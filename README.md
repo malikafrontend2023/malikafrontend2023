@@ -2,7 +2,7 @@
 
 Frontend dasturlashni 2023-yil aprel oyidan Mohirdev online platformasida o'rganib boshlagan. Hozirda darslarni yakunlab, JavaScriptni yaxshiroq o'rganib, uning Vue kutubxonasida ishlashni o'rganmoqchi. 
 
-[ ✈ Telegram](https://t.me/MFDasturchi) | [ 📧 Email](mailto:malikanasimova03@gmail.com)
+[ ✈ Telegram](https://t.me/MFDasturchi) | [ 📧 Email](mailto:malikanasimova01@gmail.com)
 
 ## Texnologiyalar
 <h3 align="left">Languages and Tools:</h3>
