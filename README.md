@@ -46,7 +46,7 @@ Frontend dasturlashni 2023-yil aprel oyidan Mohirdev online platformasida o'rgan
 
 | Preview | Ta'rif |
 |---|---|
-| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/uehz7kwoo7gesfebbqi8.jpg" alt="Ecommerce product page" width="500" height="auto">  <br> [Maket manbasi](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6) | **Ecommerce product page** <br> Online do'kon sahifasi <br><br> <a href="https://github.com/malikafrontend2023/ecommerce-product-page"> 📃 Repo </a> <br> <a href="mn-ecommerce-product-page"> 🌐 Netlify </a> <br><br> **O'ziga xos jihatlari:** Savatchada mahsulot bor-yo'qligiga asoslangan dropdown menu, Rasmlar galereyasi, lightbox | 
+| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/uehz7kwoo7gesfebbqi8.jpg" alt="Ecommerce product page" width="500" height="auto">  <br> [Maket manbasi](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6) | **Ecommerce product page** <br> Online do'kon sahifasi <br><br> <a href="https://github.com/malikafrontend2023/ecommerce-product-page"> 📃 Repo </a> <br> <a href="https://mn-ecommerce-product-page.netlify.app/"> 🌐 Netlify </a> <br><br> **O'ziga xos jihatlari:** Savatchada mahsulot bor-yo'qligiga asoslangan dropdown menu, Rasmlar galereyasi, lightbox | 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malikafrontend2023&show_icons=true&locale=en&layout=compact" alt="malikafrontend2023" /></p>
 
